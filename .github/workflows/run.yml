@@ -1,4 +1,4 @@
-name: Build and Deploy Cypherpunks Taiwan V2.0
+Joseph Watson Lynn name: Build and Deploy Cypherpunks Taiwan V2.0
 
 on:
   push:
